@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EmailNotificationSystem.Client/EmailNotificationSystem.Client.csproj" />
+  <Project Path="EmailNotificationSystem.Server/EmailNotificationSystem.Server.csproj" />
+  <Project Path="EmailNotificationSystem.Shared/EmailNotificationSystem.Shared.csproj" />
+</Solution>

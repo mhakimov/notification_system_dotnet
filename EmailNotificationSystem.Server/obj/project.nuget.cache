@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vrv5pQSydvo=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\EmailNotificationSystem\\EmailNotificationSystem.Server\\EmailNotificationSystem.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marats.hakimovs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\marats.hakimovs\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

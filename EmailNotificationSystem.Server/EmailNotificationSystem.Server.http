@@ -1,0 +1,6 @@
+@EmailNotificationSystem.Server_HostAddress = http://localhost:5191
+
+GET {{EmailNotificationSystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

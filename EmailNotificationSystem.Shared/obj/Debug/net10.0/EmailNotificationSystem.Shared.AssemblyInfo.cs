@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailNotificationSystem.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae240680829c308aa4376580b83d93496058be0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036c0f3b2b7851bcddb127252ea71e87a2737571")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailNotificationSystem.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailNotificationSystem.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

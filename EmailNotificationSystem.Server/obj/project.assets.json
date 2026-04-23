@@ -36,6 +36,16 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "EmailNotificationSystem.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/EmailNotificationSystem.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmailNotificationSystem.Shared.dll": {}
+        }
       }
     }
   },
@@ -75,10 +85,16 @@
         "microsoft.openapi.2.0.0.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "EmailNotificationSystem.Shared/1.0.0": {
+      "type": "project",
+      "path": "../EmailNotificationSystem.Shared/EmailNotificationSystem.Shared.csproj",
+      "msbuildProject": "../EmailNotificationSystem.Shared/EmailNotificationSystem.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "EmailNotificationSystem.Shared >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.5"
     ]
   },
@@ -106,7 +122,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Code\\EmailNotificationSystem\\EmailNotificationSystem.Shared\\EmailNotificationSystem.Shared.csproj": {
+              "projectPath": "C:\\Code\\EmailNotificationSystem\\EmailNotificationSystem.Shared\\EmailNotificationSystem.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -8,3 +8,7 @@ dotnet sln add EmailNotificationSystem.Shared/EmailNotificationSystem.Shared.csp
 
 dotnet add EmailNotificationSystem.Server reference EmailNotificationSystem.Shared
 dotnet add EmailNotificationSystem.Client reference EmailNotificationSystem.Shared
+
+cd .\EmailNotificationSystem.Server\         
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+

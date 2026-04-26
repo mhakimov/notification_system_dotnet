@@ -13,3 +13,7 @@ cd .\EmailNotificationSystem.Server\
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.Tools
 dotnet add package Swashbuckle.AspNetCore
+
+
+dotnet run --project EmailNotificationSystem.Server
+http://localhost:5191/api/Sawliq
